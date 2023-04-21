@@ -23,4 +23,4 @@ the application domain, and the relation $\prec$ represents the “IS-A” relat
 
 
 
-For more information look at the pdf document called HierarchicalClassification.pdf
+... Continue in the pdf document called HierarchicalClassification.pdf
